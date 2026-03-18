@@ -71,7 +71,7 @@ This repository contains comprehensive solutions and detailed explanations for t
 | 015 | Setup SSL for NGINX | Linux, Nginx | [Solution](./days/015.md) |
 | 016 | Install and Configure NGINX as Load Balancer | Linux, Networking | [Solution](./days/016.md) |
 | 017 | Install and Configure PostgreSQL | Linux, Database | [Solution](./days/017.md) |
-| 018 | Configure LAMP Server (LAMP Stack) | Linux, Database | [Solution](./days/018.md) |
+| 018 | Install and Configure DB Server ~~Configure LAMP Server (LAMP Stack)~~ | Linux, Database | [Solution new](./days/018.md) ~~[Solution old](./days/018-old.md)~~|
 | 019 | Install and Configure Web Application | Linux, Networking | [Solution](./days/019.md) |
 | 020 | Configure Nginx + PHP-FPM Using Unix Sock | Linux, Nginx | [Solution](./days/020.md) |
 | 021 | Setup Git Repository on Server | Git | [Solution](./days/021.md) |
