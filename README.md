@@ -28,7 +28,7 @@ This repository contains comprehensive solutions and detailed explanations for t
 4. Follow the daily challenges in order
 5. Share your progress using `#100DaysOfDevOps`
 
-> **Want to start the official challenge?** Use this [KodeKloud link](https://linkly.link/2CeSH) - it helps support this project!
+> **Want to start the official challenge?** Use this [KodeKloud link](https://engineer.kodekloud.com/practice) - it helps support this project!
 
 ## Challenge Progress
 
@@ -38,7 +38,7 @@ This repository contains comprehensive solutions and detailed explanations for t
 
 **Successfully completed the 100 Days of DevOps Challenge!**
 
-![certificate of completion](./screenshots/certificate-mh.jpg)
+![certificate of completion](https://certificates.engineer.kodekloud.com//69282201409471ca63a2c228/67f8c6419cda08d63b5ff8a0/c755bd93-eec8-4552-83a4-b371acda32f4.jpg)
 
 ### Learning Modules
 
@@ -260,7 +260,7 @@ If this repository helped you in your DevOps journey:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🔗 Connect With Me
+## 🔗 Connect With Imshakil
 
 - **GitHub**: [@imshakil](https://github.com/imshakil)
 - **LinkedIn**: [Connect with me](https://linkedin.com/in/imshakil)
