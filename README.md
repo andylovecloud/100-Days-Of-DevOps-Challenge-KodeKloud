@@ -260,7 +260,7 @@ If this repository helped you in your DevOps journey:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🔗 Connect With Imshakil
+## 🔗 Connect With Imshakil (my mentor)
 
 - **GitHub**: [@imshakil](https://github.com/imshakil)
 - **LinkedIn**: [Connect with me](https://linkedin.com/in/imshakil)
